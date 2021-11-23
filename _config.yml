@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seoyeon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an **ambitious but not perfect** person."
+  location         : "Seoul, South Korea"
+  email            : kelly005619@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
