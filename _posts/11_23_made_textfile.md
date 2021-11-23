@@ -1,0 +1,1 @@
+today is November 23th and this might be the last face to face class in Mentoring Class
