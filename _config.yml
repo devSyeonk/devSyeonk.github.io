@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seoyeon Kim , junior"
+title                    : "Seoyeon Kim , Junior"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Seoyeon Kim"
+description              : "My newborn baby Website"
 url                      : "https://devSyeonk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/profile.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Seoyeon Kim"
   avatar           : "/assets/profile.jpg"
-  bio              : "I am an **ambitious but not perfect** person."
+  bio              : " Software (Computer Science), Sookmyung Women's University."
   location         : "Seoul, South Korea"
   email            : kelly005619@gmail.com
   links:
